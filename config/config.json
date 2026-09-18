@@ -1,0 +1,13 @@
+{
+  "timeout": 10,
+  "user_agent": "CORSBreach/1.0",
+  "test_origins": [
+    "https://evil.example",
+    "https://attacker.example",
+    "null"
+  ],
+  "follow_redirects": true,
+  "verify_tls": true,
+  "log_level": "INFO",
+  "batch_delay_seconds": 1.0
+}

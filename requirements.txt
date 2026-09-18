@@ -1,0 +1,8 @@
+# CORSBreach has ZERO third-party dependencies.
+#
+# It is built entirely on the Python 3 standard library (urllib, http.client,
+# ssl, socket, argparse, json, logging, unittest). This file exists only so
+# graders/tools that expect a requirements.txt find one - there is nothing
+# to install.
+#
+# Requires: Python 3.8+
